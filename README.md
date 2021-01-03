@@ -1,1 +1,2 @@
 # student-management-system
+This is a basic CLI Student Management System. This gives the user the ability to add a number of students, returns a unique generated student ID, allows for enrollment into multiple classes, displays total tuition and allows for the user to enter in a tuition payment. Students who are added are saved in an array of students that allows for a review of the entered information to be displayed on the console.
